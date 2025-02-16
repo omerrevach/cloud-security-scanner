@@ -17,7 +17,7 @@
 #     print('---')
 
 # documentation
-# https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ec2/client/describe_security_groups.html#
+# https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ec2/client/describe_security_groups.html
 
 import boto3
 client = boto3.client('ec2')
